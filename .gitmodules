@@ -1,0 +1,3 @@
+[submodule "charts"]
+	path = charts
+	url = https://github.com/Beknazar007/helm_library.git
