@@ -1,0 +1,1 @@
+{{ include "app.helm.chart.service.tpl" . | nindent 2 }}
